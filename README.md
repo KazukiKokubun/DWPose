@@ -18,7 +18,7 @@
 
   ```bash
   # Python 3.10 の仮想環境を作成
-  python3.10 -m venv dwpose_venv
+  python3.10 -m venv .dwpose_venv
   ```
 
 * **仮想環境を有効化**:
